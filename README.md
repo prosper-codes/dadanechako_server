@@ -24,5 +24,5 @@ This is the backend of an e-commerce application built using **Express.js** and 
 
 1. Clone the repository:
    ```sh
-   git clone[ https://github.com/your-username/ecommerce-backend.git](https://github.com/prosper-codes/dadanechako_server.git)
-   cd ecommerce-backend
+   git clone https://github.com/prosper-codes/dadanechako_server.git
+  
